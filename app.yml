@@ -1,3 +1,5 @@
 application: 
   name: app
 message: "sample-message"
+democonfigclient: 
+  message: demo-message
