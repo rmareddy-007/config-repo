@@ -1,5 +1,5 @@
 application: 
   name: app
-message: "sample-message"
+message: "sample-message-altered"
 democonfigclient: 
-  message: {cipher}78b70773a16d0debe40377e26582822c6680ff95d285aa9dd53063579542bbc3
+  message: {cipher}f2eb4f29c9dfd85ca5fdd3a553d8417283e981752aa72e45f75522b156ad7891faa87f473829ad1fcf66ed68e1c8d2a6
