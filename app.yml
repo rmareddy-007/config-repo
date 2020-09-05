@@ -2,4 +2,4 @@ application:
   name: app
 message: "sample-message"
 democonfigclient: 
-  message: demo-message
+  message: {cipher}78b70773a16d0debe40377e26582822c6680ff95d285aa9dd53063579542bbc3
