@@ -1,1 +1,6 @@
-
+cloud:
+    config:
+      discovery:
+        enabled: true # This is required
+        service-id: configserver # Config Server's eureka registry name
+      enabled: true # This is default true already
